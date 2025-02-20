@@ -1,2 +1,3 @@
 # stoic-quote-generator
-school purposes only
+Laboratory Activity #1
+IT2A
