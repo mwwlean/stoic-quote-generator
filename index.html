@@ -3,21 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stoic Quotes Generator</title>
+    <title>Paws & Quotes</title>
     <link rel="stylesheet" href="src/style.css">
 </head>
 <body>
     <div class="root">
         <div class="container">
-            <h1>Stoic Quote Generator</h1>
-            <p class="quote">Click the button to generate a quote</p>
-            <p class="author"></p>
-            <button onclick="fetchQuote()">Generate Quote</button>
+            <h1>Paws & Quotes</h1>
+            <p class="tagline">Get inspired with quotes or brighten your day with cute pets!</p>
+            <div class="button-group">
+                <button onclick="fetchDog()">🐶 Dog</button>
+                <button onclick="fetchCat()">🐱 Cat</button>
+                <button onclick="fetchQuote()">💬 Quote</button>
+            </div>
+            <div class="content">
+                <p class="quote">Click a button to get started!</p>
+                <p class="author"></p>
+                <img class="pet-image" src="" alt="Pet Image" style="display: none;">
+            </div>
         </div>
-        <div class="b-container">
-            <p>Created by Jan Leander Matutes ❤️</a>
+        <div class="footer">
+            <p>Created with ❤️ by Jan Leander Matutes</p>
         </div>
-    </div>  
+    </div>
     <script src="src/script.js"></script>
 </body>
 </html>
