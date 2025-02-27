@@ -2,6 +2,8 @@
 Laboratory Activity #1
 IT2A
 
+Link: https://matutes-iplab-activity-1.vercel.app/
+
 Output:
 
-![image](https://github.com/user-attachments/assets/1a6bf73b-19a2-445f-b32a-601d8e630306)
+![Screenshot](image-1.png)
