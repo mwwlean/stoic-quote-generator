@@ -1,4 +1,4 @@
-# stoic-quote-generator
+# Paws & Quotes
 Laboratory Activity #1
 IT2A
 
